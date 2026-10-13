@@ -18,11 +18,11 @@ Software engineer, full-stack and applied AI. Computer Science student at Warsaw
 
 ## Tech stack
 
-Languages: TypeScript, JavaScript, Python, C#, C, C++
-Web: Next.js, React, Tailwind CSS, Vite, ASP.NET Core, Entity Framework Core
-Data: PostgreSQL, Supabase
-AI: Google Gemini, Vercel AI SDK, Hugging Face Transformers, PyTorch
-Tooling: Git, GitHub Actions, Vercel, Vitest, Playwright, pytest, Linux
+- Languages: TypeScript, JavaScript, Python, C#, C, C++
+- Web: Next.js, React, Tailwind CSS, Vite, ASP.NET Core, Entity Framework Core
+- Data: PostgreSQL, Supabase
+- AI: Google Gemini, Vercel AI SDK, Hugging Face Transformers, PyTorch
+- Tooling: Git, GitHub Actions, Vercel, Vitest, Playwright, pytest, Linux
 
 ## Contact
 
